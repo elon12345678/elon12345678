@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ChatGPT Website</title>
+  </head>
+  <body>
+    <!-- Content goes here -->
+  </body>
+</html>
+<header>
+  <div class="logo">
+    <a href="#"><img src="logo.png" alt="ChatGPT Logo"></a>
+  </div>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About Us</a></li>
+      <li><a href="#">Contact Us</a></li>
+      <li><a href="#">Login</a></li>
+      <li><a href="#">Signup</a></li>
+    </ul>
+  </nav>
+</header>
+<main>
+  <div class="chat-window">
+    <div class="chat-header">
+      <h2>Welcome to ChatGPT!</h2>
+    </div>
+    <div class="chat-body">
+      <div class="message">
+        <p>Hi, how can I help you?</p>
+      </div>
+    </div>
+    <div class="chat-footer">
+      <input type="text" placeholder="Type your message here...">
+      <button>Send</button>
+    </div>
+  </div>
+  <div class="info-section">
+    <h3>About ChatGPT</h3>
+    <p>ChatGPT is a virtual chat assistant that uses AI and NLP to provide intelligent responses to your queries.</p>
+  </div>
+</main>
+<footer>
+  <p>&copy; 2023 ChatGPT. All rights reserved.</p>
+  <ul>
+    <li><a href="#">Terms of Service</a></li>
+    <li><a href="#">Privacy Policy</a></li>
+  </ul>
+</footer>
